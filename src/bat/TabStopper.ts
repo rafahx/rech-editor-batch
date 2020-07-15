@@ -71,7 +71,7 @@ export class TabStopper {
     }
 
     /**
-     * Removes a single selecton tab
+     * Removes a single selection tab
      * @param edit text editor
      * @param doc current document
      * @param pos position to insert the tab
@@ -86,7 +86,7 @@ export class TabStopper {
     }
 
     /**
-     * Performs multiple tab selecton
+     * Performs multiple tab selection
      *
      * @param edit editor
      * @param sel selection
@@ -99,7 +99,7 @@ export class TabStopper {
     }
 
     /**
-     * Performs ubtab with multiple selecions
+     * Performs ubtab with multiple selections
      *
      * @param edit current text editor
      * @param doc text document
